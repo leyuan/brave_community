@@ -41,3 +41,4 @@ rich_guy = Player(gems={'W': 1000, 'G': 1000, 'R': 1000, 'B': 1000,
 assert can_purchase(rich_guy, green_card) == True
 
 print("Done")
+print("New Feature")
